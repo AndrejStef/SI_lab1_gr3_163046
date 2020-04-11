@@ -1,0 +1,7 @@
+package prv;
+
+public class Receipt {
+	class Array<item>{
+	}
+
+}
